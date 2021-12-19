@@ -32,8 +32,12 @@
     <div class="hero"></div>
     <!-- changed div here to main because this is the main content-->
     <main class="content">
-        <!-- added id="search-engine-optimization" so it can be linked from nav -->
-        <div id="search-engine-optimization" class="search-engine-optimization">
+      <!-- added id="search-engine-optimization" so it can be linked from nav -->
+      <!-- changed the 3 <div>s within <main> to <section> becuase the aside is split into 3 sections. Thought about using <article> but it's hard for me to interpret these as individual articles with 2 sentences, an img and a heading. -->
+      <section
+        id="search-engine-optimization"
+        class="search-engine-optimization"
+      >
         <img
           src="./assets/images/search-engine-optimization.jpg"
           class="float-left"
@@ -45,8 +49,8 @@
           home. Search Engine Optimization (SEO) allows you to increase your
           visibility and find the right customers for your business.
         </p>
-      </div>
-      <div
+      </section>
+      <section
         id="online-reputation-management"
         class="online-reputation-management"
       >
@@ -62,8 +66,8 @@
           control over what potential customers see when they search for your
           business.
         </p>
-      </div>
-      <div id="social-media-marketing" class="social-media-marketing">
+      </section>
+      <section id="social-media-marketing" class="social-media-marketing">
         <img
           src="./assets/images/social-media-marketing.jpg"
           class="float-left"
@@ -75,18 +79,19 @@
           to your brand, using analytics to find the right markets and increase
           your lead generation.
         </p>
-      </div>
+      </section>
     </main>
     <!-- changed div below to aside because this content is not the main info but additional info to the right -->
     <aside class="benefits">
-      <div class="benefit-lead">
+        <!-- changed the 3 <div>s within <aside> to <section> becuase the aside is split into 3 sections. Thought about using <article> but these aren't individual articles. -->
+      <section class="benefit-lead">
         <h3>Lead Generation</h3>
         <img src="./assets/images/lead-generation.png" />
         <p>
           Inbound strategies for lead generation require less work for your
           business, bringing customers directly to your website.
         </p>
-      </div>
+    </section>
       <div class="benefit-brand">
         <h3>Brand Awareness</h3>
         <img src="./assets/images/brand-awareness.png" />
@@ -94,15 +99,15 @@
           Users find your business through paid and organic searches, increasing
           the search ranking and visibility for your business.
         </p>
-      </div>
-      <div class="benefit-cost">
+    </section>
+      <section class="benefit-cost">
         <h3>Cost Management</h3>
         <img src="./assets/images/cost-management.png" />
         <p>
           As the search ranking for your business increases, your advertising
           costs decrease, and you no longer need to advertise your page.
         </p>
-      </div>
+    </section>
     </aside>
     <!-- changed div to footer -->
     <!-- do I still need the class of footer? -->
