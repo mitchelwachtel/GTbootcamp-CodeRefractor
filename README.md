@@ -5,6 +5,9 @@
 ### GT Coding Bootcamp - Homework due 1/3/22 - "Code Refractor"
 
 ---
+## Description
+
+Technologies used: HTML, CSS, and GitHub pages in order to publish the site.
 
 My main motivation for this project was to better understand the semantic structure of HTML and practice using CSS selectors efficiently.
 
@@ -18,9 +21,22 @@ My next steps would be to add responsive design elements to this webpage because
 
 ---
 
-### Deployed Site can be found **[here](https://mitchelwachtel.github.io/GTbootcamp-CodeRefractor/)**. 
+### **Deployed Site** can be found *[here](https://mitchelwachtel.github.io/GTbootcamp-CodeRefractor/)*. 
 
 ---
+
+### **GitHub Repository** can be found *[here](https://github.com/mitchelwachtel/GTbootcamp-CodeRefractor)*.
+
+---
+## Installation 
+
+Simply open in a brower and the webpage should appear as below.
+
 ![Top of Horiseon website](./assets/images/ss1.png)
 
 ![Bottom of Horiseon website](./assets/images/ss2.png)
+
+---
+## Credits
+
+This was a project in which I was given starter code to improve upon. It was given to me through the GT Coding Bootcamp. In order to adapt the HTML with Semantics, I used *[this resource](https://www.w3schools.com/html/html5_semantic_elements.asp)* from W3 Schools. In order to write a professional README file, I relied heavily upon *[this resource](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)* from Request-Response: The Full-Stack Blog.
