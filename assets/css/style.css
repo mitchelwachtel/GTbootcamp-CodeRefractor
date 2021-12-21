@@ -137,6 +137,24 @@ p {
   text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
   font-size: 20px;
+}
+
+
+/* below is an attempt to make the page responsive design */
+body {
+
+}
+
+.content {
+
+}
+
+.big-idea {
+
+}
+
+.benefits {
+  order: 2;
 }
