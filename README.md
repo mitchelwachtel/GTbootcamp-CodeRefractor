@@ -18,6 +18,9 @@ My next steps would be to add responsive design elements to this webpage because
 
 ---
 
-### Deployed Site can be found [here](https://mitchelwachtel.github.io/GTbootcamp-CodeRefractor/) 
+### Deployed Site can be found **[here](https://mitchelwachtel.github.io/GTbootcamp-CodeRefractor/)**. 
 
 ---
+![Top of Horiseon website](./assets/images/ss1.png)
+
+![Bottom of Horiseon website](./assets/images/ss2.png)
