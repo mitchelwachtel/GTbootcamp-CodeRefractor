@@ -40,3 +40,8 @@ Simply open in a brower and the webpage should appear as below.
 ## Credits
 
 This was a project in which I was given starter code to improve upon. It was given to me through the GT Coding Bootcamp. In order to adapt the HTML with Semantics, I used *[this resource](https://www.w3schools.com/html/html5_semantic_elements.asp)* from W3 Schools. In order to write a professional README file, I relied heavily upon *[this resource](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)* from Request-Response: The Full-Stack Blog.
+
+---
+## License
+
+GNU General Public License v3.0
