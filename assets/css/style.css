@@ -142,19 +142,19 @@ p {
 }
 
 
-/* below is an attempt to make the page responsive */
-body {
-
-}
-
+/* below is an attempt to make the page responsive 
 .content {
-
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .big-idea {
-
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .benefits {
-  order: 2;
+  
 }
+
+*/
